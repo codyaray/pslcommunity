@@ -1,0 +1,28 @@
+[Sun Oct 18 09:46:10.593 2009] [16701] accepting connections
+[Sun Oct 18 09:59:11.819 2009] [16701] rotating indices (seamless=1)
+[Sun Oct 18 09:59:12.819 2009] [16701] rotating index 'profile_core': success
+[Sun Oct 18 09:59:12.819 2009] [16701] rotating finished
+[Sun Oct 18 10:08:36.190 2009] [16701] caught SIGTERM, shutting down
+[Sun Oct 18 10:08:36.190 2009] [16701] shutdown complete
+[Sun Oct 18 10:08:38.542 2009] [ 6411] accepting connections
+[Sun Oct 18 10:09:35.457 2009] [ 6411] caught SIGTERM, shutting down
+[Sun Oct 18 10:09:35.457 2009] [ 6411] shutdown complete
+[Sun Oct 18 10:09:37.713 2009] [ 6946] accepting connections
+[Sun Oct 18 10:10:10.372 2009] [ 6946] caught SIGTERM, shutting down
+[Sun Oct 18 10:10:10.372 2009] [ 6946] shutdown complete
+[Sun Oct 18 10:10:59.301 2009] [ 9289] accepting connections
+[Sun Oct 18 10:18:37.538 2009] [ 9289] caught SIGTERM, shutting down
+[Sun Oct 18 10:18:37.538 2009] [ 9289] shutdown complete
+[Sun Oct 18 10:18:39.855 2009] [12971] accepting connections
+[Sun Oct 18 10:19:27.238 2009] [12971] caught SIGTERM, shutting down
+[Sun Oct 18 10:19:27.239 2009] [12971] shutdown complete
+[Sun Oct 18 10:19:29.597 2009] [13386] accepting connections
+[Sun Oct 18 10:20:15.566 2009] [13386] caught SIGTERM, shutting down
+[Sun Oct 18 10:20:15.567 2009] [13386] shutdown complete
+[Sun Oct 18 10:20:17.948 2009] [15509] accepting connections
+[Sun Oct 18 10:36:41.358 2009] [15509] caught SIGTERM, shutting down
+[Sun Oct 18 10:36:41.425 2009] [15509] shutdown complete
+[Sun Oct 18 10:36:44.130 2009] [29345] accepting connections
+[Sun Oct 18 10:41:59.745 2009] [29345] caught SIGTERM, shutting down
+[Sun Oct 18 10:41:59.745 2009] [29345] shutdown complete
+[Sun Oct 18 10:42:02.153 2009] [ 1508] accepting connections

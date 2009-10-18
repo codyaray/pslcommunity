@@ -2,12 +2,12 @@
 
 DELETE_CONFIRM = "Are you sure you want to delete?\nThis can not be undone."
 SEARCH_LIMIT = 25
-SITE_NAME = 'Lovd By Less'
-SITE = RAILS_ENV == 'production' ? 'lovdbyless.com' : 'localhost:3000'
+SITE_NAME = 'Philly Startup Leaders Members'
+SITE = RAILS_ENV == 'production' ? 'phillystartupleaders.org' : 'phillystartupleaders:3000'
 
 
-MAILER_TO_ADDRESS = "info@#{SITE}"
-MAILER_FROM_ADDRESS = "The Lovd by Less Team <info@#{SITE}>"
+MAILER_TO_ADDRESS = 'info@#{SITE}'
+MAILER_FROM_ADDRESS = 'Philly Startup Leaders Members <info@phillystartupleaders.org>'
 REGISTRATION_RECIPIENTS = %W() #send an email to this list everytime someone signs up
 
 

@@ -1,0 +1,55 @@
+(in /home/psl/public_html/members)
+searchd --pidfile --config /home/psl/public_html/members/config/development.sphinx.conf
+[Sun Oct 18 10:18:39.854 2009] [12970] using config file '/home/psl/public_html/members/config/development.sphinx.conf'...
+[Sun Oct 18 10:18:39.855 2009] [12970] creating server socket on 127.0.0.1:3312
+Started successfully (pid 12971).
+Loaded suite /usr/bin/rake
+Started
+
+Finished in 0.00022 seconds.
+
+[32m0 tests, 0 assertions, 0 failures, 0 errors[0m
+(in /home/psl/public_html/members)
+searchd --pidfile --config /home/psl/public_html/members/config/development.sphinx.conf
+[Sun Oct 18 10:19:29.596 2009] [13385] using config file '/home/psl/public_html/members/config/development.sphinx.conf'...
+[Sun Oct 18 10:19:29.596 2009] [13385] creating server socket on 127.0.0.1:3312
+Started successfully (pid 13386).
+Loaded suite /usr/bin/rake
+Started
+
+Finished in 0.000228 seconds.
+
+[32m0 tests, 0 assertions, 0 failures, 0 errors[0m
+(in /home/psl/public_html/members)
+searchd --pidfile --config /home/psl/public_html/members/config/development.sphinx.conf
+[Sun Oct 18 10:20:17.947 2009] [15508] using config file '/home/psl/public_html/members/config/development.sphinx.conf'...
+[Sun Oct 18 10:20:17.947 2009] [15508] creating server socket on 127.0.0.1:3312
+Started successfully (pid 15509).
+Loaded suite /usr/bin/rake
+Started
+
+Finished in 0.000232 seconds.
+
+[32m0 tests, 0 assertions, 0 failures, 0 errors[0m
+(in /home/psl/public_html/members)
+searchd --pidfile --config /home/psl/public_html/members/config/development.sphinx.conf
+[Sun Oct 18 10:36:44.053 2009] [29344] using config file '/home/psl/public_html/members/config/development.sphinx.conf'...
+[Sun Oct 18 10:36:44.054 2009] [29344] creating server socket on 127.0.0.1:3312
+Started successfully (pid 29345).
+Loaded suite /usr/bin/rake
+Started
+
+Finished in 0.000227 seconds.
+
+[32m0 tests, 0 assertions, 0 failures, 0 errors[0m
+(in /home/psl/public_html/members)
+searchd --pidfile --config /home/psl/public_html/members/config/development.sphinx.conf
+[Sun Oct 18 10:42:02.153 2009] [ 1491] using config file '/home/psl/public_html/members/config/development.sphinx.conf'...
+[Sun Oct 18 10:42:02.153 2009] [ 1491] creating server socket on 127.0.0.1:3312
+Started successfully (pid 1508).
+Loaded suite /usr/bin/rake
+Started
+
+Finished in 0.000231 seconds.
+
+[32m0 tests, 0 assertions, 0 failures, 0 errors[0m

@@ -1,0 +1,14 @@
+
+development:
+  adapter: mysql
+  database: psl_membersdev
+  username: psl_members
+  password: 328ez3#2e
+  encoding: utf8
+
+test:
+  adapter: mysql
+  database: psl_memberstest
+  username: psl_members
+  password: 328ez3#2e
+  encoding: utf8

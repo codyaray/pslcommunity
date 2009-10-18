@@ -9,8 +9,8 @@ Rails::Initializer.run do |config|
   # Cookie sessions (limit = 4K)
   # WARNING: You MUST generate a new secret (use "rake secret") and add it below!
   config.action_controller.session = {
-    :session_key => '_your_app_name',
-    :secret      => '0677a17f4e94869409e7aecb29a00fd9' # <- New secret key goes here
+    :session_key => 'psl_members',
+    :secret      => 'dccb627bbe523c2ae627dde9f27c096e7f57bb0ed627e436033ec172ad29075f4f4e4b7d159992930740747f82187836a4c3c29bd402e2e6efe99b0d04252ab4' # <- New secret key goes here
   }
   config.action_controller.session_store = :active_record_store
 
@@ -34,7 +34,6 @@ Rails::Initializer.run do |config|
   config.gem 'mocha', :version=> '0.9.3'
   config.gem 'redgreen', :version=> '1.2.2' unless ENV['TM_MODE']
   config.gem 'gcnovus-avatar', :version=> '0.0.7', :lib => 'avatar'
-  config.gem 'paperclip', :version=> '2.1.2'
   
   
   
